@@ -7,6 +7,7 @@
 #### Stack
 - Java
 - React
+- Material UI
 - Firebase
 - Redis?
 - PostgreSQL, Hibernate?
